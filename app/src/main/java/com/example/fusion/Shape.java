@@ -8,4 +8,6 @@ public abstract class Shape {
         this.x = X;
         this.y = Y;
     }
+    String color = "blue";
+
 }
